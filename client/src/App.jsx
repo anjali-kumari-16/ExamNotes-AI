@@ -12,6 +12,7 @@ import Notes from './pages/Notes.jsx'
 import PaymentSuccess from './pages/PaymentSuccess.jsx'
 
 import PaymentFail from './pages/PaymentFaild.jsx'
+export const serverUrl = "https://examnotes-aiserver-5nqo.onrender.com"
 
 
 
